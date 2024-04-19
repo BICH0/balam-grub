@@ -8,7 +8,7 @@ terminal-box: "terminal_*.png"
 
 + label {
     text = "Grub Bootloader"
-    font = "DejaVu Sans Regular 48"
+    font = "DejaVu Sans 48"
     color = "#eff0f1"
     left = 60%-200
     top = 15%
